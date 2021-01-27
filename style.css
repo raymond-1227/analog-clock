@@ -129,7 +129,7 @@ body::after {
     position: absolute;
     width: 8px;
     height: 80px;
-    background: #ff105e;
+    background: #ff0000;
     z-index: 11;
     border-radius: 6px;
 }
