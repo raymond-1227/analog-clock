@@ -132,6 +132,7 @@ body::after {
     background: #ff0000;
     z-index: 11;
     border-radius: 6px;
+    filter: invert(100%);
 }
 
 .mn::before {
