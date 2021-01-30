@@ -129,10 +129,9 @@ body::after {
     position: absolute;
     width: 8px;
     height: 80px;
-    background: #ff0000;
+    background: #ffffff;
     z-index: 11;
     border-radius: 6px;
-    filter: invert(100%);
 }
 
 .mn::before {
